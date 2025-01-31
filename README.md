@@ -13,3 +13,7 @@ As well as providing leadership in the use of Generative AI 🤖 in research:
 -	Co-chairing a uni-wide Generative AI coordinating group
 - 📄 Driving and/or contributing to 11 national submissions on behalf of the university.
 - 🤝 Leading AI + strategic collaboration projects with other parts of the University.
+
+Some other things I've been playing with that you can find here:
+- [Find travel times between different parts of sydney with isochrones](https://gdmcdonald.github.io/mapnificent/sydney) 
+- [Fitness Passport locations and whether they're free](https://www.google.com/maps/d/embed?mid=1Sv8Ovxe4VfWDM9dtkuFuJlDq38qEPUM&ehbc=2E312F)
